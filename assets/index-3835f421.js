@@ -66,7 +66,7 @@ Error generating stack: `+i.message+`
     img{
         height: 90%
     }
-`;function ya(e){return pe(Xh,{children:pe("img",{src:e.img,alt:""})})}const Zh="/ospages/assets/firefox-164f4a0a.svg",Jh="/ospages/assets/more-0c4d9b62.svg",qh=Hn.div`
+`;function ya(e){return pe(Xh,{children:pe("img",{src:e.img,alt:""})})}const Zh="/assets/firefox-164f4a0a.svg",Jh="/assets/more-0c4d9b62.svg",qh=Hn.div`
     wight: auto;
     height: 10%;
 
@@ -79,7 +79,7 @@ Error generating stack: `+i.message+`
     align-items: center;
 
     background: ${e=>e.theme.color.secundary};
-`;function bh(){return fl(qh,{children:[pe(ya,{img:Zh}),pe(ya,{img:Jh})]})}const em="/ospages/assets/network-ebbbe4c7.svg",tm="/ospages/assets/power-b564e13f.svg",nm="/ospages/assets/volume-7bb269a4.svg",qi=Hn.div`
+`;function bh(){return fl(qh,{children:[pe(ya,{img:Zh}),pe(ya,{img:Jh})]})}const em="/assets/network-ebbbe4c7.svg",tm="/assets/power-b564e13f.svg",nm="/assets/volume-7bb269a4.svg",qi=Hn.div`
     width: min-content;
     height: 85%;
 
